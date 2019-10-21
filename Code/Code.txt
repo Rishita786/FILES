@@ -82,3 +82,27 @@ else:
         printResult(cost1,path1)
     elif cost2!=0:
         printResult(cost2,path2)
+        
+""""Sample:
+    Input 
+    Enter coordinates :: 
+    2 9
+    6 10
+    [[9]
+     [7]
+     [4]
+     [5]]
+    Output
+    Matrix 1 :
+     [[4 4 6 9]
+     [1 5 1 7]
+     [6 5 8 4]
+     [9 9 3 5]]
+    Matrix 2 : 
+     [[9 8 5 9]
+     [7 4 2 2]
+     [4 3 6 2]
+     [5 6 6 2]]
+    Path :: -> 0-> 2-> 3
+    Distance :: 7""""
+    
