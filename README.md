@@ -1,4 +1,4 @@
-SHortest Path Between Two Points
+Shortest Path Between Two Points
 ===
 Generating a random matrix of 20 X 20 representing cost of moving from one location to another.  
 User have to enter two location representing source and destination.  
